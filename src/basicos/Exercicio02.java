@@ -31,8 +31,8 @@ desse filme em horas e em segundos.*/
 		System.out.println("A duração desse filme é de " + segundos + " segundos");
 
 		
-		//Para exibirmos o resultado final dos segundos, podemos utilizar o System.out.println(), colocando o nome da variável segundos fora das aspas para que seu conteúdo seja exibido
-		System.out.println("A duração desse filme é de " + horas + " segundos");
+		//Para exibirmos o resultado final das horas, podemos utilizar o System.out.println(), colocando o nome da variável segundos fora das aspas para que seu conteúdo seja exibido
+		System.out.println("A duração desse filme é de " + horas + " horas");
 		//É claro que as horas estão sendo exibidas com muitas casas decimais, afinal de contas a nossa variável horas é do tipo double. No arquivo Exercicio02Alternativo, existem algumas instruções de formatação para contornar esse problema.
 		
 		
